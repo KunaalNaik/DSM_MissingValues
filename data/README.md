@@ -20,3 +20,8 @@
 | 3 	| Clustering     	|                   	|      	|       	|
 | 4 	| Forecasting     	|                   	|      	|       	|
 | 5 	| Text Classification     	|                   	|      	|       	|
+
+
+
+### Generated Tables
+- https://www.tablesgenerator.com/markdown_tables
